@@ -1,0 +1,12 @@
+*
+!/components/
+!/pages/
+!/snippets/
+!/.gitignore
+!/.npmrc
+!/.stackblitzrc
+!/netlify.toml
+!/package.json
+!/pnpm-lock.yaml
+!/slides.md
+!/vercel.json

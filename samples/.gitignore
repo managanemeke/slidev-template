@@ -1,0 +1,12 @@
+*
+!/.gitignore
+!/*/
+!/*/slides.md
+!/*/*/
+!/*/pages/
+!/*/components/
+!/*/snippets/
+!/*/*/.gitignore
+!/*/*/*.md
+!/*/*/*.ts
+!/*/*/*.vue

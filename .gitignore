@@ -1,6 +1,7 @@
 *
 !/components/
 !/pages/
+!/samples/
 !/snippets/
 !/.gitignore
 !/.npmrc

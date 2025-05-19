@@ -8,5 +8,6 @@
 !/netlify.toml
 !/package.json
 !/pnpm-lock.yaml
+!/readme.md
 !/slides.md
 !/vercel.json

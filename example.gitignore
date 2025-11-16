@@ -1,0 +1,7 @@
+*
+!/public/
+!/public/*.*
+!/.gitignore
+!/readme.md
+!/slides.md
+!/slides.pdf

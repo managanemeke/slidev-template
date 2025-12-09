@@ -1,6 +1,7 @@
 *
 !/public/
 !/public/*.*
+!/.editorconfig
 !/.gitignore
 !/readme.md
 !/slides.md

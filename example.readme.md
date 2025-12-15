@@ -11,6 +11,10 @@ pnpm install
 ```
 
 ```sh
+cp example.editorconfig .editorconfig
+```
+
+```sh
 cp example.gitignore .gitignore
 ```
 

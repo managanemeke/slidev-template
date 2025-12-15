@@ -22,6 +22,10 @@ cp example.readme.md readme.md
 cp example.slides.md slides.md
 ```
 
+```sh
+cp example.style.css style.css
+```
+
 ## Run for developing
 
 ```sh
